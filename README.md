@@ -6,7 +6,7 @@ This is a simple Rock Paper Scissors game built in Bash. The game allows the use
 
 ## 🧩 How to Play
 
-1. Run the script in Bash using the command ` ./rps.sh ` or `bash rps.sh `.
+1. Run the script in Bash using the command `bash rps.sh `.
 
 2. Choose your weapon by typing 'r' for rock, 'p' for paper, or 's' for scissors.
 
